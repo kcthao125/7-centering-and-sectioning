@@ -1,0 +1,25 @@
+html{
+    background-color: khaki;
+    font-family: "liquorstore-bolder-distilled", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ul{
+    margin:0;
+}
+
+.nav-color{
+    background-color: yellowgreen;
+    padding: 7px;
+}
+
+.main{
+    background-color: forestgreen;
+    padding: 7px;
+    margin-bottom: 7px;
+}
+
+footer{
+    padding: 7px;
+}
