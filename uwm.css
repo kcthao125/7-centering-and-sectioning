@@ -1,0 +1,54 @@
+header{
+    background-color: #7af0f0;
+    color:seagreen;
+}
+
+main{
+    color: white;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+    padding: 20px;
+}
+
+header p{
+    font-weight: bold;
+}
+
+header a,
+header ul{
+    color: black;
+}
+
+
+main{
+    background-color:#1c6b6b;
+}
+
+.background-main{
+    background-color:darkcyan;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+aside{
+    background-color:cadetblue;
+    color: white;
+    font-style: italic;
+}
+
+footer{
+    background-color: #7af0f0;
+    color:seagreen;
+}
+
+footer a,
+footer ul{
+    color: #1c6b6b;
+}
+
+hr{
+    border: 2px solid white;
+}
